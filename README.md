@@ -17,6 +17,6 @@ From the first stage, I will cover the following machine learning algorithms:
 - [x] classification
 - [x] clustering
 
-I will use [scikit learn](http://scikit-learn.org) first, and hopefully will cover [tensor flow](https://www.tensorflow.org) [pySpark](http://spark.apache.org/docs/latest/api/python/pyspark.html) in the futher.
+I will use [scikit learn](http://scikit-learn.org) first, and hopefully will cover [tensor flow](https://www.tensorflow.org) and [pySpark](http://spark.apache.org/docs/latest/api/python/pyspark.html) in the futher.
 
 
